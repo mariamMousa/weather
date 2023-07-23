@@ -1,0 +1,12 @@
+.transparent {
+    opacity: 0.5;
+}
+
+button {
+    background-color: #03224f80;
+    -webkit-text-fill-color: whitesmoke;
+}
+
+h1 {
+    color: #03224f;
+}
